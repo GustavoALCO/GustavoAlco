@@ -64,4 +64,4 @@ Olá me Chamo Gustavo Alves Corrêa. Sou estudante do 8º semestre da Uninove em
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />****
+  />
