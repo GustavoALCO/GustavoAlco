@@ -2,7 +2,7 @@
 
 **`Desenvovedor FullStack`**
 
-Olá me Chamo Gustavo Alves Corrêa. Sou estudante do 8º semestre da Uninove em Ciência da Computação. em busca da minha primeira oportunidade como desenvolvedor. Tenho experiência prática em desenvolvimento .NET e Angular, adquirida por meio de projetos acadêmicos e pessoais.
+Formado em Ciência da Computação pela Uninove. Tenho experiência prática sólida com .NET e Angular, adquirida por meio de projetos acadêmicos e pessoais que simularam cenários reais de desenvolvimento, com foco em boas práticas, arquitetura limpa e integração de sistemas.
 
 ### 🤖 Linguagens e Tecnologias
 
