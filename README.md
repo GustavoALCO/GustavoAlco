@@ -2,7 +2,7 @@
 
 **`Desenvovedor FullStack`**
 
-Formado em Ciência da Computação pela Uninove. Tenho experiência prática sólida com .NET e Angular, adquirida por meio de projetos acadêmicos e pessoais que simularam cenários reais de desenvolvimento, com foco em boas práticas, arquitetura limpa e integração de sistemas.
+Formado em Ciência da Computação pela Uninove, Estudando Tecnologo de Analise e Desenvolvimento de Sistemas pela Uninove. Tenho experiência prática sólida com .NET e Angular, adquirida por meio de projetos acadêmicos e pessoais que simularam cenários reais de desenvolvimento, com foco em boas práticas, arquitetura limpa e integração de sistemas.
 
 ### 🤖 Linguagens e Tecnologias
 
